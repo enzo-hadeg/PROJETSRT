@@ -1,0 +1,15 @@
+C:\Users\33672\Desktop\ReadSRT\bin\Debug\ReadSRT.exe.config
+C:\Users\33672\Desktop\ReadSRT\bin\Debug\ReadSRT.exe
+C:\Users\33672\Desktop\ReadSRT\bin\Debug\ReadSRT.pdb
+C:\Users\33672\Desktop\ReadSRT\obj\Debug\ReadSRT.csprojAssemblyReference.cache
+C:\Users\33672\Desktop\ReadSRT\obj\Debug\MainWindow.g.cs
+C:\Users\33672\Desktop\ReadSRT\obj\Debug\App.g.cs
+C:\Users\33672\Desktop\ReadSRT\obj\Debug\ReadSRT_MarkupCompile.cache
+C:\Users\33672\Desktop\ReadSRT\obj\Debug\ReadSRT_MarkupCompile.lref
+C:\Users\33672\Desktop\ReadSRT\obj\Debug\MainWindow.baml
+C:\Users\33672\Desktop\ReadSRT\obj\Debug\ReadSRT.g.resources
+C:\Users\33672\Desktop\ReadSRT\obj\Debug\ReadSRT.Properties.Resources.resources
+C:\Users\33672\Desktop\ReadSRT\obj\Debug\ReadSRT.csproj.GenerateResource.cache
+C:\Users\33672\Desktop\ReadSRT\obj\Debug\ReadSRT.csproj.CoreCompileInputs.cache
+C:\Users\33672\Desktop\ReadSRT\obj\Debug\ReadSRT.exe
+C:\Users\33672\Desktop\ReadSRT\obj\Debug\ReadSRT.pdb
